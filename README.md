@@ -26,17 +26,6 @@ This project demonstrates the use of HTML, CSS, and JavaScript with proper separ
 
 ---
 
-## 🗂️ Project Structure
-
- 
-valentine-mood-meter/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
----
-
 ## ⚙️ How It Works
 
 1. User selects an emotion by clicking a button.
