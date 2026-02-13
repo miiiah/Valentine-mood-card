@@ -28,6 +28,7 @@ This project demonstrates the use of HTML, CSS, and JavaScript with proper separ
 
 ## 🗂️ Project Structure
 
+ 
 valentine-mood-meter/
 │
 ├── index.html
